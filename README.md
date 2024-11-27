@@ -1,3 +1,3 @@
-# DSA
+# college stuff
 
-Here I will be uploading dsa and leetcode problems 
+Here I will be uploading things related to college   
